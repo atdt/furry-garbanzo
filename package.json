@@ -1,0 +1,12 @@
+{
+  "name": "furry-garbanzo ",
+  "description": "blah blah blah",
+  "author": "atdt@google.com",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.10.0"
+  },
+  "scripts": {
+    "test": "jshint hello.js"
+  }
+}
